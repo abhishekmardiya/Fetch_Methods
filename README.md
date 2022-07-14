@@ -1,4 +1,4 @@
-#### Fetch Methods (.then and async-await)
+#### Fetch Methods
 
 - GET Method
 - POST Method
