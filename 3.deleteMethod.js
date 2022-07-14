@@ -1,3 +1,4 @@
+//*****************************************.then method************************************************************ */
 fetch("https://reqres.in/api/users/2", {
   method: "DELETE",
   headers: {
@@ -5,6 +6,7 @@ fetch("https://reqres.in/api/users/2", {
   },
 });
 
+//*****************************************async await method************************************************************ */
 let deleteData = async () => {
   await fetch("https://reqres.in/api/users/2", {
     method: "DELETE",
@@ -13,4 +15,4 @@ let deleteData = async () => {
     },
   });
 };
-deleteData()
+deleteData();
