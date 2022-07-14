@@ -1,4 +1,4 @@
-#### Fetch Methods
+<h1>Fetch Methods</h1>
 
 - GET Method
 - POST Method
